@@ -1,0 +1,23 @@
+#second {color: blue}
+#first  {color: red}
+#third {color: green}
+#fourth {font-size: 40px}
+#fifth {font-size: 9px}
+#sixth {text-align: center}
+#seven {font-weight: bold}
+#eighth {font-family:Verdana, Geneva, Tahoma, sans-serif}
+#ninth {font-weight: bold}
+#ninth {color: orange}
+#ninth {font-size: 42px}
+.styledFont {color: green}
+#ten{text-align: center}
+#styledImage {border
+    width: 200px;
+  border: 30px solid;
+  border-image: repeating-linear-gradient(45deg, #f33, #3bf, #f33 30px) 60;
+  padding: 20px;
+
+  border-image;
+      url ("https://upload.wikimedia.org/wikipedia/commons/f/f6/Faenza-text-css.svg")
+    
+    }
